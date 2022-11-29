@@ -1,7 +1,7 @@
 Olá! Meu nome é Kauê :)
 
 - ⚡ Estudante de programação
-- 😄 Atualmete tenho conhecimentos em Html, Css e Js
+- 😄 Atualmete tenho conhecimentos em Html, Css, Javascrip e nodeJs 
 - 📫 Contato: Kaue11letta@gmail.com
 
 <div align="center">
